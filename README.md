@@ -6,7 +6,7 @@
 This repository is a fork of the End-to-end process monitoring [repository](https://github.com/Stellenbosch-University-Process-Eng/End-to-end-process-monitoring), specifically created for the [IFAC ADCHEM 2024](https://www.adchem2024.org/) workshop on the same topic. This repository also includes a Python implementation of the framework.
 
 ### Requirements
-The repository contains MATLAB and Python implementations. 
+The repository contains MATLAB and Python implementations. The MATLAB implementation typically executes faster.
 - The MATLAB code was tested on R2023a and R2024a. The Statistical and Machine Learning Toolbox is required.
 - The Python requirements can be found in requirements.txt in the root folder, suitable for conda/mamba environment creation.
 
