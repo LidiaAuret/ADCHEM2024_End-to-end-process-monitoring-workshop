@@ -28,13 +28,16 @@ The expected outcomes of the workshop are:
 
 ### Tentative schedule
 - 08h30 - 09h00: Welcome and introductions
-- 09h00 - 10h00:	(Presentation) Overview; motivation and framework structure
-- 10h00 - 11h00:	(Interactive session) Computer setup and repository familiarisation
-- 11h00 - 12h00: (Presentation) Framework modules details 
-- 12h00 - 12h45:	(Interactive example) Framework familiarisation and experiments
-- 12h45 - 13h30:	Lunch
-- 13h30 - 14h30:	(Presentation) Framework module details (continued)
-- 15h30 - 16h30:	(Interactive challenge) Custom configurations and modules, improve process monitoring performance
+- 09h00 - 10h00: (Presentation) Overview: Motivation and framework structure
+- 10h00 - 10h30: (Interactive session) Computer setup and repository familiarization
+- 10h30 - 11h00: Coffee break
+- 11h00 - 12h00: (Presentation) Framework module details
+- 12h00 - 12h30: (Interactive example) Framework familiarization and experiments
+- 12h30 - 13h30: Lunch
+- 13h30 - 14h30: (Presentation) Framework module details (continued)
+- 14h30 - 15h30: (Interactive example) Framework familiarization and experiments
+- 15h30 - 16h00: Coffee break
+- 16h00 - 17h30: (Interactive challenge) Custom configurations and modules, improve process monitoring performance
 
 ### Intended audience
 Process monitoring techniques demonstrated will typically be data-based approaches.
