@@ -18,8 +18,6 @@ t, d, u, p, x, f, y, r, m, econ = generateConfigurations(maintenance_strategy=2)
 # Generate disturbances
 d_range = DisturbanceModule(d,t)
 
-# Plotting
-
 # Simulation
 # Print case
 print(f'Maintenance strategy: Case {r["Case"]}')
