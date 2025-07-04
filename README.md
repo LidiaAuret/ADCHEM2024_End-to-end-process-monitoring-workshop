@@ -40,7 +40,7 @@ The expected outcomes of the workshop are:
 - 16h00 - 17h30: (Interactive challenge) Custom configurations and modules, improve process monitoring performance
 
 ### Intended audience
-Process monitoring techniques demonstrated will typically be data-based approaches.
+Process monitoring techniques demonstrated will typically be data-based approaches, but model-based approaches can also be considered.
 
 The workshop is aimed at:
 - Graduate students new to the fields of process monitoring, fault diagnosis, fault tolerant control.
